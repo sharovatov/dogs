@@ -38,6 +38,8 @@
 ### Пух, Уголёк и Гита вместе — добрые морды :)
 <img src="img/ugol-puh-gita.jpg" alt="Пух, Уголёк и Гита вместе">
 
+{% include sidebar.html %}
+
 <style type="text/css">
 .dogs-faces {
   overflow: hidden;
