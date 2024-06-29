@@ -46,18 +46,20 @@
 }
 .dogs-faces img {
   float: left;
-  height: 120px;
-  margin-right: 10px;
-  margin-bottom: 10px;
+  height: 110px;
+  margin-right: 6px;
+  margin-bottom: 6px;
 }
 aside#sidebar, header a.button {display:none;}
+#mysid {
+  font-weight: bold;
+}
 @media (min-width:1281px) {
   #mysid {
       position: absolute;
       top: 0;
       right: 0;
       width: 249px;
-      font-weight: bold;
   }
 }
 </style>
