@@ -1,5 +1,3 @@
-# Собаки на выданье
-
 Слева направо: Пух, Зита, Гита, Уголёк, Искорка.
 
 <div class="dogs-faces">
@@ -50,6 +48,7 @@
   float: left;
   height: 120px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 </style>
 
