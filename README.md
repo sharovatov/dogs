@@ -4,7 +4,7 @@
 <img src="img/gita-face.png" alt="Мордочка Гиты">
 <img src="img/ugol-face.png" alt="Мордочка Уголька">
 <img src="img/iskra-face2.png" alt="Мордочка Искорки">
-</div><br>
+</div>
 
 {% include sidebar.html %}
 
@@ -58,7 +58,7 @@ aside#sidebar, header a.button {display:none;}
   #mysid {
       position: absolute;
       top: 0;
-      right: 0;
+      right: -30px;
       width: 249px;
   }
 }
