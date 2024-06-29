@@ -54,6 +54,9 @@ aside#sidebar, header a.button {display:none;}
 #mysid {
   font-weight: bold;
 }
+#mysid p {
+  margin-bottom: 8px;
+}
 @media (min-width:1281px) {
   #mysid {
       position: absolute;
@@ -61,6 +64,9 @@ aside#sidebar, header a.button {display:none;}
       right: -30px;
       width: 249px;
   }
+}
+#content-wrapper {
+  padding-top: 6px;
 }
 </style>
 
