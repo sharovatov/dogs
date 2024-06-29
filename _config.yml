@@ -2,5 +2,3 @@ remote_theme: pages-themes/architect@v0.2.0G
 plugins:
 - jekyll-remote-theme
 title: Возьмите подростка?
-includes:
-  - sidebar.html
