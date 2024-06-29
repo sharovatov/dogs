@@ -6,6 +6,7 @@
 <img src="img/iskra-face2.png" alt="Мордочка Искорки">
 </div><br>
 
+{% include sidebar.html %}
 
 В ноябре 2023 года я нашёл шестерых малышей выброшенными и замерзающими на пляже Поти, в Грузии.
 
@@ -49,11 +50,14 @@
   margin-right: 10px;
   margin-bottom: 10px;
 }
-header a.button {display:none;}
-#mysid {
-
+aside#sidebar, header a.button {display:none;}
+@media (min-width:1281px) {
+  #mysid {
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-weight: bold;
+ }
 }
-
 </style>
 
-{% include sidebar.html %}
