@@ -24,22 +24,22 @@
 
 Размером пёсики невелики: сантиметров 50 в холке, и уже не вырастут.
 
-Пух:
+### Пух:
 <img src="img/puh-full.jpg" alt="Пух стоит">
 
-Зита:
+### Зита:
 <img src="img/zita-full.jpg" alt="Зита стоит">
 
-Гита:
+### Гита:
 <img src="img/gita-full.jpg" alt="Гита стоит">
 
-Уголёк:
+### Уголёк:
 <img src="img/ugol-full.jpg" alt="Уголёк стоит">
 
-Искорка:
+### Искорка:
 <img src="img/iskra-full.jpg" alt="Искорка стоит">
 
-Пух, Уголёк и Гита:
+### Пух, Уголёк и Гита вместе — добрые морды :)
 <img src="img/ugol-puh-gita.jpg" alt="Пух, Уголёк и Гита вместе">
 
 <style type="text/css">
