@@ -20,7 +20,7 @@
 
 **Собачкам очень нужен дом и немножечко любви.**
 
-Размером пёсики невелики: сантиметров 50 в холке, и уже не вырастут.
+Размером пёсики невелики: сантиметров 45 в холке, и уже не вырастут.
 
 ### Пух:
 <img src="img/puh-full.jpg" alt="Пух стоит">
@@ -56,8 +56,9 @@ aside#sidebar, header a.button {display:none;}
       position: absolute;
       top: 0;
       right: 0;
+      width: 249px;
       font-weight: bold;
- }
+  }
 }
 </style>
 
