@@ -2,25 +2,25 @@
 
 Пух, Зита, Гита, Уголёк, Искорка
 
-<div id="faces">
-
-![Мордочка Пуха](img/puh-face.png)
-![Мордочка Зиты](img/zita-face.png)
-![Мордочка Гиты](img/gita-face.png)
-![Мордочка Уголька](img/ugol-face.png)
-![Мордочка Искорки](img/iskra-face.png)
-
+<div class="dogs-faces">
+<img src="img/puh-face.png" alt="Мордочка Пуха">
+<img src="img/zita-face.png" alt="Мордочка Зиты">
+<img src="img/gita-face.png" alt="Мордочка Гиты">
+<img src="img/ugol-face.png" alt="Мордочка Уголька">
+<img src="img/iskra-face.png" alt="Мордочка Искорки">
 </div>
 
 У каждого подростка есть паспорт международного образца и три комплекта вовремя сделанных прививок.
 
 Все собаки стерилизованы.
 
-![Мордочка Пуха](img/puh-face2.png)
-![Мордочка Зиты](img/zita-face2.png)
-![Мордочка Гиты](img/gita-face2.png)
-![Мордочка Уголька](img/ugol-face2.png)
-![Мордочка Искорки](img/iskra-face2.png)
+<div class="dogs-faces">
+<img src="img/puh-face2.png" alt="Мордочка Пуха">
+<img src="img/zita-face2.png" alt="Мордочка Зиты">
+<img src="img/gita-face2.png" alt="Мордочка Гиты">
+<img src="img/ugol-face2.png" alt="Мордочка Уголька">
+<img src="img/iskra-face2.png" alt="Мордочка Искорки">
+</div>
 
 У каждого подростка есть паспорт международного образца и три комплекта вовремя сделанных прививок.
 
