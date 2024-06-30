@@ -6,3 +6,8 @@ title: Возьмите подростка?
 
 includes:
   - sidebar.html
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /dogs/img/dogs-all.png
