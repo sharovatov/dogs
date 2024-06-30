@@ -9,4 +9,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /dogs/img/dogs-all.png
+      image: /img/dogs-all.png
