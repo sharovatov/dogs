@@ -1,8 +1,3 @@
----
-image:
-    path: /img/dogs-all.png
----
-
 <div class="dogs-faces">
 <img src="img/puh-face.png" alt="Мордочка Пуха">
 <img src="img/zita-face2.png" alt="Мордочка Зиты">
